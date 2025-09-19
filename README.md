@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on **open-source projects, hackathons, and problem-solving communities**  
 - 🤔 I’m looking for help with **optimizing code performance and learning advanced system design**  
 - 💬 Ask me about **C++, DSA, OOP concepts, and Web Development basics**  
-- 📫 How to reach me: ** [LinkedIn]((https://www.linkedin.com/in/sachin-sharma-705655297/)) | [Email](mailto:sachinsharma3345@gmail.com)**  
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/sachin-sharma-705655297/) | [Email](mailto:sachinsharma3345@gmail.com)**  
 - 😄 Pronouns: **He/Him**  
 - ⚡ Fun fact: **I love turning coffee ☕ into clean, optimized code 🚀**  
 
@@ -40,7 +40,7 @@
 
 ### 📫 Connect with me  
 <p align="center">
-  <a href="(https://www.linkedin.com/in/sachin-sharma-705655297/)"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/sachin-sharma-705655297/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="mailto:sachinsharma3345@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/SachinSharma3345"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" /></a>
 </p>  
